@@ -8,6 +8,7 @@ A coleção criada no Mongo DB está estruturada da seguinte forma:
 <img src="/api-clima//images/collection-clima-in-mongodb.jpeg">
 
 Da mesma forma é possível saber como está estruturada pela IDE utilizada, como pode ver, abaixo:
+
 <img src="/api-clima//images/collection-api-clima.jpeg">
 
 Após a construção do projeto estes são os testes de CRUD (`GET`, `POST`, `PUT` e `DELETE`)realizados.
