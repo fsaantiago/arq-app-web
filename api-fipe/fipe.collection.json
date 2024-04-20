@@ -1,0 +1,231 @@
+[{
+  "_id": 286,
+  "brand": "Volkswagen",
+  "model": "Gol",
+  "year": 2020,
+  "value": 40000
+},
+{
+  "_id": 645,
+  "brand": "Ford",
+  "model": "Fiesta",
+  "year": 2018,
+  "value": 35000
+},
+{
+  "_id": 127,
+  "brand": "Chevrolet",
+  "model": "Onix",
+  "year": 2021,
+  "value": 45000
+},
+{
+  "_id": 934,
+  "brand": "Toyota",
+  "model": "Corolla",
+  "year": 2019,
+  "value": 60000
+},
+{
+  "_id": 724,
+  "brand": "Honda",
+  "model": "Civic",
+  "year": 2017,
+  "value": 55000
+},
+{
+  "_id": 865,
+  "brand": "Hyundai",
+  "model": "HB20",
+  "year": 2022,
+  "value": 42000
+},
+{
+  "_id": 288,
+  "brand": "Fiat",
+  "model": "Palio",
+  "year": 2015,
+  "value": 30000
+},
+{
+  "_id": 815,
+  "brand": "Renault",
+  "model": "Sandero",
+  "year": 2016,
+  "value": 32000
+},
+{
+  "_id": 549,
+  "brand": "Nissan",
+  "model": "Versa",
+  "year": 2020,
+  "value": 38000
+},
+{
+  "_id": 102,
+  "brand": "Peugeot",
+  "model": "208",
+  "year": 2018,
+  "value": 33000
+},
+{
+  "_id": 563,
+  "brand": "Citroën",
+  "model": "C3",
+  "year": 2019,
+  "value": 34000
+},
+{
+  "_id": 547,
+  "brand": "Kia",
+  "model": "Sportage",
+  "year": 2021,
+  "value": 48000
+},
+{
+  "_id": 481,
+  "brand": "Jeep",
+  "model": "Compass",
+  "year": 2017,
+  "value": 52000
+},
+{
+  "_id": 283,
+  "brand": "Audi",
+  "model": "A3",
+  "year": 2020,
+  "value": 67000
+},
+{
+  "_id": 225,
+  "brand": "BMW",
+  "model": "320i",
+  "year": 2016,
+  "value": 62000
+},
+{
+  "_id": 435,
+  "brand": "Mercedes-Benz",
+  "model": "C180",
+  "year": 2018,
+  "value": 70000
+},
+{
+  "_id": 487,
+  "brand": "Volvo",
+  "model": "XC60",
+  "year": 2019,
+  "value": 75000
+},
+{
+  "_id": 194,
+  "brand": "Land Rover",
+  "model": "Evoque",
+  "year": 2022,
+  "value": 80000
+},
+{
+  "_id": 499,
+  "brand": "Subaru",
+  "model": "Forester",
+  "year": 2015,
+  "value": 40000
+},
+{
+  "_id": 617,
+  "brand": "Mitsubishi",
+  "model": "L200",
+  "year": 2017,
+  "value": 45000
+},
+{
+  "_id": 366,
+  "brand": "Suzuki",
+  "model": "Jimny",
+  "year": 2020,
+  "value": 36000
+},
+{
+  "_id": 285,
+  "brand": "Ferrari",
+  "model": "488",
+  "year": 2021,
+  "value": 300000
+},
+{
+  "_id": 963,
+  "brand": "Lamborghini",
+  "model": "Huracán",
+  "year": 2018,
+  "value": 250000
+},
+{
+  "_id": 852,
+  "brand": "Porsche",
+  "model": "911",
+  "year": 2019,
+  "value": 200000
+},
+{
+  "_id": 889,
+  "brand": "McLaren",
+  "model": "720S",
+  "year": 2020,
+  "value": 300000
+},
+{
+  "_id": 977,
+  "brand": "Bugatti",
+  "model": "Chiron",
+  "year": 2022,
+  "value": 3000000
+},
+{
+  "_id": 614,
+  "brand": "Aston Martin",
+  "model": "DB11",
+  "year": 2017,
+  "value": 250000
+},
+{
+  "_id": 722,
+  "brand": "Lotus",
+  "model": "Evora",
+  "year": 2016,
+  "value": 150000
+},
+{
+  "_id": 699,
+  "brand": "Rolls-Royce",
+  "model": "Phantom",
+  "year": 2018,
+  "value": 500000
+},
+{
+  "_id": 344,
+  "brand": "Bentley",
+  "model": "Continental GT",
+  "year": 2021,
+  "value": 300000
+},
+{
+  "_id": 646,
+  "brand": "Jaguar",
+  "model": "F-Type",
+  "year": 2019,
+  "value": 100000
+},
+{
+  "_id": 992,
+  "brand": "Tesla",
+  "model": "Model S",
+  "year": 2020,
+  "value": 80000
+},
+{
+  "_id": 465,
+  "brand": "Lucid",
+  "model": "Air",
+  "year": 2021,
+  "value": 90000
+}]
