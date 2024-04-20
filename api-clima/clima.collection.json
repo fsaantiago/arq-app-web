@@ -1,0 +1,33 @@
+[{
+  "_id": 0,
+  "temperatura": 12.199999809265137,
+  "vento": 0,
+  "umidade": "70%",
+  "pressao": 1012,
+  "cidade": "Londres",
+  "estado": "",
+  "pais": "Reino Unido",
+  "_class": "com.newton.apiclima.entity.ClimaData"
+},
+{
+  "_id": 112,
+  "temperatura": 12.199999809265137,
+  "vento": 0,
+  "umidade": "70%",
+  "pressao": 1012,
+  "cidade": "Londres",
+  "estado": "",
+  "pais": "Reino Unido",
+  "_class": "com.newton.apiclima.entity.ClimaData"
+},
+{
+  "_id": 2,
+  "temperatura": 30,
+  "vento": 20.299999237060547,
+  "umidade": "60",
+  "pressao": 1010,
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "pais": "Brasil",
+  "_class": "com.newton.apiclima.entity.ClimaData"
+}]
