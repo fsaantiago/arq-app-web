@@ -1,7 +1,7 @@
 ## Projeto de API de Clima
 
 ## Atenção!
-Esta API foi criada manualmente, isto é, `sem informações da API sugerida` para facilitar a construção do Projeto.
+Esta API foi criada manualmente, isto é, `sem informações da API sugerida` para facilitar a construção do Projeto, mas ela pode ser encontrada clicando [neste link](https://github.com/joaopauloaramuni/arquitetura-de-aplicacoes-web/tree/main/PROJETOS/Clima_RestAPI).
 
 A coleção criada no Mongo DB está estruturada da seguinte forma:
 
