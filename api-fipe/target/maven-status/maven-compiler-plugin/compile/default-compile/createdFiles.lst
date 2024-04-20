@@ -1,0 +1,5 @@
+com/newton/trabalho/apifipe/ApiFipeApplication.class
+com/newton/trabalho/apifipe/service/Service.class
+com/newton/trabalho/apifipe/service/CarDataRepository.class
+com/newton/trabalho/apifipe/controller/CarDataController.class
+com/newton/trabalho/apifipe/entity/CarData.class

@@ -1,0 +1,110 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2761
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 [\
+    \{\
+        "idClima": "1",\
+        "cidade": "S\'e3o Paulo",\
+        "estado": "SP",\
+        "pais": "Brasil",\
+        "temperatura": 25.5,\
+        "vento": 12.3,\
+        "umidade": "60%",\
+        "pressao": 1010\
+    \},\
+    \{\
+        "idClima": "2",\
+        "cidade": "Rio de Janeiro",\
+        "estado": "RJ",\
+        "pais": "Brasil",\
+        "temperatura": 28.7,\
+        "vento": 10.8,\
+        "umidade": "55%",\
+        "pressao": 1008\
+    \},\
+    \{\
+        "idClima": "3",\
+        "cidade": "Belo Horizonte",\
+        "estado": "MG",\
+        "pais": "Brasil",\
+        "temperatura": 23.9,\
+        "vento": 8.6,\
+        "umidade": "70%",\
+        "pressao": 1012\
+    \},\
+    \{\
+        "idClima": "4",\
+        "cidade": "Salvador",\
+        "estado": "BA",\
+        "pais": "Brasil",\
+        "temperatura": 30.2,\
+        "vento": 14.2,\
+        "umidade": "50%",\
+        "pressao": 1015\
+    \},\
+    \{\
+        "idClima": "5",\
+        "cidade": "Recife",\
+        "estado": "PE",\
+        "pais": "Brasil",\
+        "temperatura": 26.8,\
+        "vento": 11.5,\
+        "umidade": "65%",\
+        "pressao": 1011\
+    \},\
+    \{\
+        "idClima": "6",\
+        "cidade": "Fortaleza",\
+        "estado": "CE",\
+        "pais": "Brasil",\
+        "temperatura": 31.5,\
+        "vento": 16.9,\
+        "umidade": "48%",\
+        "pressao": 1013\
+    \},\
+    \{\
+        "idClima": "7",\
+        "cidade": "Bras\'edlia",\
+        "estado": "DF",\
+        "pais": "Brasil",\
+        "temperatura": 27.3,\
+        "vento": 9.8,\
+        "umidade": "55%",\
+        "pressao": 1010\
+    \},\
+    \{\
+        "idClima": "8",\
+        "cidade": "Manaus",\
+        "estado": "AM",\
+        "pais": "Brasil",\
+        "temperatura": 32.8,\
+        "vento": 18.7,\
+        "umidade": "40%",\
+        "pressao": 1016\
+    \},\
+    \{\
+        "idClima": "9",\
+        "cidade": "Curitiba",\
+        "estado": "PR",\
+        "pais": "Brasil",\
+        "temperatura": 20.6,\
+        "vento": 7.4,\
+        "umidade": "75%",\
+        "pressao": 1009\
+    \},\
+    \{\
+        "idClima": "10",\
+        "cidade": "Porto Alegre",\
+        "estado": "RS",\
+        "pais": "Brasil",\
+        "temperatura": 22.1,\
+        "vento": 8.9,\
+        "umidade": "72%",\
+        "pressao": 1010\
+    \}\
+]\
+}

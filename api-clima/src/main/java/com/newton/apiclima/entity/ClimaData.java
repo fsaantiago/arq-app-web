@@ -17,11 +17,16 @@ public class ClimaData {
     private String estado;
     private String pais;
 
-    // Construtor padrão
-    public ClimaData() {
+    public ClimaData(int idClima, float temperatura, float vento, String umidade, int pressao, String cidade, String estado, String pais) {
+        this.idClima = idClima;
+        this.temperatura = temperatura;
+        this.vento = vento;
+        this.umidade = umidade;
+        this.pressao = pressao;
+        this.cidade = cidade;
+        this.estado = estado;
+        this.pais = pais;
     }
-
-    // Getters e Setters omitidos para brevidade
 
     public float getTemperatura() {
         return temperatura;

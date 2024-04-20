@@ -3,16 +3,18 @@ package com.newton.trabalho.apifipe.entity;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
-@Document(collection = "tabela-fipe")
+@Document(collection = "fipe")
 public class CarData {
     @Id
     private String id;
     private String marca;
     private String modelo;
     private int ano;
-    private String valor;
+    private double valor;
 
-    public CarData(String id, String marca, String modelo, int ano, String valor) {
+    //id, marca, modelo, ano, valor
+
+    public CarData(String id, String marca, String modelo, int ano, double valor) {
         this.id = id;
         this.marca = marca;
         this.modelo = modelo;
@@ -52,11 +54,11 @@ public class CarData {
         this.ano = ano;
     }
 
-    public String getValor() {
+    public double getValor() {
         return valor;
     }
 
-    public void setValor(String valor) {
+    public void setValor(double valor) {
         this.valor = valor;
     }
 }

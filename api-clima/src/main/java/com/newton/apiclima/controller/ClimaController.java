@@ -31,8 +31,8 @@ public class ClimaController {
     }
 
     @PutMapping("/{id}")
-    public ClimaData atualizarClima(@PathVariable String idClima, @RequestBody ClimaData clima) {
-        clima.setIdClima(Integer.parseInt(idClima));
+    public ClimaData atualizarClima(@PathVariable String id, @RequestBody ClimaData clima) {
+        clima.setIdClima(Integer.parseInt(id));
         return climaRepository.save(clima);
     }
 

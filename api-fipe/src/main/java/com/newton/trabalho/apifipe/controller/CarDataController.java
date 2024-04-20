@@ -2,7 +2,7 @@ package com.newton.trabalho.apifipe.controller;
 
 import com.newton.trabalho.apifipe.entity.CarData;
 import com.newton.trabalho.apifipe.service.CarDataRepository;
-import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
@@ -13,7 +13,6 @@ import java.util.Optional;
 @RequestMapping("/cars")
 public class CarDataController {
 
-    @Autowired
     private CarDataRepository carDataRepository;
 
     //http://localhost:8080/modelos/marcas/
@@ -35,17 +34,18 @@ public class CarDataController {
         return carData.map(data -> ResponseEntity.ok("Valor do carro: " + data.getValor())).orElseGet(() -> ResponseEntity.notFound().build());
     }
 
-    //http://localhost:8080/cars
-    @PostMapping("/cars")
+    //http://localhost:8080/cars/add
+    @PostMapping("/cars/add")
     public ResponseEntity<String> createCar(@RequestBody CarData carData) {
         // Verifica se o valor do carro foi fornecido
-        if (carData.getValor() == null || carData.getValor().isEmpty()) {
-            return ResponseEntity.badRequest().body("O valor do carro é obrigatório");
+        if (carData.getValor() <= 0) {
+            return ResponseEntity.badRequest().body("O valor do carro é obrigatório e deve ser maior que zero");
         }
 
         carDataRepository.save(carData);
         return ResponseEntity.ok("Carro criado com sucesso");
     }
+
     //http://localhost:8080/cars/id
     @GetMapping("/cars/{id}")
     public ResponseEntity<CarData> consultCar(@PathVariable String id) {

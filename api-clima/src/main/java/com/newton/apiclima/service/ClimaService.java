@@ -6,6 +6,7 @@ import org.springframework.stereotype.Service;
 public class ClimaService {
 
     public void salvarPrevisaoTempo(String cidade, String estado, String pais, String dia, String clima, int temperatura, int velocidadeVento, String direcaoVento, int umidade, int pressao) {
+        //cidade, estado, pais, dia, clima, temperatura, velocidadeVento, direcaoVento, umidade, pressao
         // Lógica para salvar os dados no banco de dados
         // Aqui você pode utilizar um repositório JPA ou uma camada de acesso a dados para persistir os dados no banco de dados
         System.out.println("Dados de previsão do tempo salvos no banco de dados:");
@@ -20,4 +21,5 @@ public class ClimaService {
         System.out.println("Umidade: " + umidade);
         System.out.println("Pressão: " + pressao);
     }
+
 }
